@@ -75,6 +75,48 @@
       }
     ],
     "preview": "cristina-patrascu-preview.jpg",
-    "previewBytes": 659060
+    "previewBytes": 252396
+  },
+  {
+    "slug": "camelia-bogdan",
+    "originalName": "Rosu_2 - Camelia Bogdan.jpg",
+    "bytes": 4670834,
+    "sha256": "4e9c12ed557c160052e87479604681ee1754728eb446ec857642548072476336",
+    "parts": [
+      {
+        "name": "original.part01",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part02",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part03",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part04",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part05",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part06",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part07",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part08",
+        "bytes": 120834
+      }
+    ],
+    "preview": "camelia-bogdan-preview.jpg",
+    "previewBytes": 505145
   }
 ]
