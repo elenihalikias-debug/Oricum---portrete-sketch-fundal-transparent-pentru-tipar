@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "ildiko-ludmann",
+    "originalName": "Fotografie de profil 1 - Ildiko Ludmann.png",
+    "bytes": 972538,
+    "sha256": "20b0ff4ccc2f700d0ed33253b95e81f2812ab274629e7b59332ee0c5efa67263",
+    "parts": [
+      {
+        "name": "original.part01",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part02",
+        "bytes": 322538
+      }
+    ],
+    "preview": "ildiko-ludmann-preview.jpg",
+    "previewBytes": 143972
+  },
+  {
+    "slug": "denisa-pintea",
+    "originalName": "IMG_0202 - Denisa Pintea.png",
+    "bytes": 1426883,
+    "sha256": "886a4ea048c1a3ca6754ae4de4b21734620676bf0fa4a7ab36df0bf4b5d6a143",
+    "parts": [
+      {
+        "name": "original.part01",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part02",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part03",
+        "bytes": 126883
+      }
+    ],
+    "preview": "denisa-pintea-preview.jpg",
+    "previewBytes": 176611
+  },
+  {
+    "slug": "cristina-patrascu",
+    "originalName": "Copy of Photo (294) - Georgiana-Cristina Pătrașcu.jpg",
+    "bytes": 4474624,
+    "sha256": "9ebdc2ba4d6b71528212bd632c985195b61945d5f0b2a213d2d0b89a68858f27",
+    "parts": [
+      {
+        "name": "original.part01",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part02",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part03",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part04",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part05",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part06",
+        "bytes": 650000
+      },
+      {
+        "name": "original.part07",
+        "bytes": 574624
+      }
+    ],
+    "preview": "cristina-patrascu-preview.jpg",
+    "previewBytes": 659060
+  }
+]
